@@ -1,0 +1,14 @@
+E:\Otus\ConsoleApp1\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+E:\Otus\ConsoleApp1\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+E:\Otus\ConsoleApp1\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+E:\Otus\ConsoleApp1\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+E:\Otus\ConsoleApp1\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+E:\Otus\ConsoleApp1\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Otus\ConsoleApp1\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+E:\Otus\ConsoleApp1\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+E:\Otus\ConsoleApp1\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+E:\Otus\ConsoleApp1\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+E:\Otus\ConsoleApp1\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+E:\Otus\ConsoleApp1\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+E:\Otus\ConsoleApp1\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+E:\Otus\ConsoleApp1\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
